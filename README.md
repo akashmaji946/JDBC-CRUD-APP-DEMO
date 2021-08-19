@@ -1,4 +1,4 @@
-# JDBC-CRUD-APP-DEMO
+# JDBC-CRUD-APP-DEMO [Student Management App]
 A basic CRUD app in Java using JDBC to perform database related operations
 
 ### What does this do?
@@ -17,5 +17,5 @@ A basic CRUD app in Java using JDBC to perform database related operations
 
 ### How to see it for yourself:
 - Use Eclipse IDE and open the project
-OR
+#### OR
 - Just go through the java files arranged in package structure
